@@ -10,12 +10,13 @@ As well as all the normal Agnoster features, it also add's contexts for the foll
 - Google Cloud Profile
 
 ## Installation
+Ensure Oh My ZSH is installed, instructions can be found [here](https://ohmyz.sh/#install), then:
 
 ```
 git clone git@github.com:karlbaillie/agnoster-zsh-theme.git $ZSH_CUSTOM/themes/karlbaillie
 vim ~/.zshrc
 ```
-Set `ZSH_THEME` to `"karlbaillie/agnoster"`, then `exec zsh` to have the changes effect
+Set `ZSH_THEME` to `"karlbaillie/agnoster"`, then `exec zsh` to have the changes take effect
 
 ## Plugins
 
